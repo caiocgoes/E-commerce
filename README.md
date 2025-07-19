@@ -15,3 +15,21 @@ Mapeamento de preferências de pagamento dos clientes.
 
 O projeto gerou insights estratégicos para o entendimento do comportamento do consumidor e para o suporte à tomada de decisão comercial.
 
+# Tecnologias Utilizadas
+
+- Python (Pandas, Matplotlib, Seaborn)
+
+# Visualização
+
+- Streamlit Share
+
+# Executar o projeto
+
+```bash
+#clonar repositorio
+git clone https://github.com/seu-usuario/seu-projeto.git
+# entrar na pasta do projeto back end
+cd seu-projeto
+# Execute o script principal
+python app.py
+
