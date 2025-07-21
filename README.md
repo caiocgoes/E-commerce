@@ -29,7 +29,7 @@ O projeto gerou insights estratégicos para o entendimento do comportamento do c
 #clonar repositorio
 git clone https://github.com/caiocgoes/E-commerce.git
 # entrar na pasta do projeto
-cd E-commerce.git
+cd E-commerce
 # Execute o script principal
 python E-commerce.py
 
