@@ -27,9 +27,9 @@ O projeto gerou insights estratégicos para o entendimento do comportamento do c
 
 ```bash
 #clonar repositorio
-git clone https://github.com/seu-usuario/seu-projeto.git
+git clone https://github.com/caiocgoes/E-commerce.git
 # entrar na pasta do projeto back end
-cd seu-projeto
+cd E-commerce.git
 # Execute o script principal
-python app.py
+python E-commerce.py
 
