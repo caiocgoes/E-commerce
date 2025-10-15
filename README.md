@@ -17,7 +17,7 @@ O projeto gerou insights estratégicos para o entendimento do comportamento do c
 
 # Tecnologias Utilizadas
 
-- Python (Pandas, Matplotlib, Seaborn)
+- Python (Pandas, Matplotlib, Seaborn, SQL)
 
 # Visualização
 
