@@ -5,13 +5,17 @@ link do streamlit
 
 Projeto focado na análise inicial de uma base de dados de e-commerce, com desenvolvimento de dashboards e visualizações interativas para explorar indicadores de desempenho financeiro. A análise contemplou:
 
-Visões consolidadas de faturamento bruto e líquido;
+Visões consolidadas de faturamento;
 
-Distribuição de receita por produto, categoria e método de pagamento;
+Distribuição de receita por produto, categoria, método de pagamento;
 
 Identificação de produtos e categorias com maior impacto nas vendas;
 
-Mapeamento de preferências de pagamento dos clientes.
+Mapeamento de preferências de pagamento dos clientes;
+
+Identificação dos vendedores e clientes que mais contribuiram para o faturamento;
+
+Distribuição de receita por região
 
 O projeto gerou insights estratégicos para o entendimento do comportamento do consumidor e para o suporte à tomada de decisão comercial.
 
