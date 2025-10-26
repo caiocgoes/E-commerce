@@ -61,7 +61,7 @@ if escolha == "Vendas Geral":
 
     @st.cache_data
     def load_data_vendas():
-        df = pd.read_csv(r"VENDAS_GERAL_ALTERADO.csv")
+        df = pd.read_csv("VENDAS_GERAL_ALTERADO.csv",low_memory=False)
         df['produto'] = df['produto'].fillna("Não Encontrado")
         df['categoria'] = df['categoria'].fillna("Não Encontrado")
         df['tipo_pagamento'] = df['tipo_pagamento'].fillna("Não Encontrado")
@@ -198,7 +198,7 @@ elif escolha == "Clientes":
 
     @st.cache_data
     def load_data_clientes():
-        df = pd.read_csv(r"VENDAS_CLIENTE_VENDEDOR_CIDADE.csv")
+        df = pd.read_csv("VENDAS_CLIENTE_VENDEDOR_CIDADE.csv",low_memory=False)
         df['estado'] = df['estado'].fillna("Não Encontrado")
         df['latitude'] = df['latitude'].fillna("Não Encontrado")
         df['longitude'] = df['longitude'].fillna("Não Encontrado")
@@ -316,4 +316,5 @@ elif escolha == "Clientes":
         ax.set_xlabel("")
         ax.set_ylabel("")
         st.pyplot(fig_f)
+
 
