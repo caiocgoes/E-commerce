@@ -23,6 +23,9 @@ O projeto gerou insights estratégicos para o entendimento do comportamento do c
 
 - Python (Pandas, Matplotlib, Seaborn)
 - SQLite
+# Modelagem de dados
+
+<img width="997" height="285" alt="Texto do seu parágrafo" src="https://github.com/user-attachments/assets/1f0ab11e-6890-4f1b-9571-b2baf2c6b1ba" />
 
 # Visualização
 
