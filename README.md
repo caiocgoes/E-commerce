@@ -1,7 +1,7 @@
 # E-commerce
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/caiocgoes/E-commerce/blob/main/LICENSE)
 # Sobre o projeto
-link do streamlit
+https://e-commerce-cmr8lcd3yw9nulcqksafu6.streamlit.app/
 
 Projeto focado na análise inicial de uma base de dados de e-commerce, com desenvolvimento de dashboards e visualizações interativas para explorar indicadores de desempenho financeiro. A análise contemplou:
 
