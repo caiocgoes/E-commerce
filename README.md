@@ -15,7 +15,7 @@ Mapeamento de preferências de pagamento dos clientes;
 
 Identificação dos vendedores e clientes que mais contribuiram para o faturamento;
 
-Distribuição de receita por região
+Distribuição de receita por região;
 
 O projeto gerou insights estratégicos para o entendimento do comportamento do consumidor e para o suporte à tomada de decisão comercial.
 
